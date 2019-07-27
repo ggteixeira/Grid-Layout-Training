@@ -1,2 +1,2 @@
-# flexbox-training
- Desenhando um layout inspirado no Simplenote usando o grid-layout
+# grid-layout-training
+ Desenhando um layout inspirado no Simplenote usando o grid-layout.
