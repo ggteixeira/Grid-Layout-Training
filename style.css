@@ -40,8 +40,12 @@ body {
 }
 
 .wrapper > .notelist > div {
-    /* border: #333 1px solid; */
-    padding-top: 3em;
+    display: grid;
+    border: #333 1px solid;
+    /* padding-top: 3em;
+    padding-left: 3em;
+    padding-bottom: 1em; */
+    padding: 10% 20% 10%
 }
 
  .search-bar {
