@@ -1,6 +1,7 @@
 body {
     font-family: 'Roboto', sans-serif;
-    border: #f0f0f0 1px solid;
+    border: #f0f0f0 10px solid;
+    margin: 0;
 }
 
 .wrapper {
@@ -29,7 +30,7 @@ body {
     justify-items: center;
 }
 
-.wrapper > .upper-notelist {
+.wrapper .upper-notelist {
     display: grid;
     /* grid-template-columns: repeat(5, auto); */
     grid-template-columns: 80% repeat(5, 5%);
@@ -44,6 +45,7 @@ body {
 .wrapper > .notelist {
     border-right: #f0f0f0 1px solid;
 }
+
 
 .wrapper > .notelist > div {
     display: grid;
